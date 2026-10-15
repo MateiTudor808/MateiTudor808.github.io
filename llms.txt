@@ -7,7 +7,7 @@
 - Vânzări: subpartener Enel și PPC (2023–2025), cu propria echipă de agenți de vânzări.
 - Aplicații publicate: D.A.R.P.C. (App Store și Google Play), Regele serii (Google Play).
 - Audiență organică: 12.900 de urmăritori pe TikTok (@matei.imobiliare), majoritatea din Craiova.
-- Competențe: SEO, fișe de magazin, conținut video, social media, HTML, CSS, JavaScript, TypeScript, SQL, Git, Excel, Word.
+- Competențe: SEO tehnic, GEO (optimizare pentru căutarea cu AI), ASO, viteză (Core Web Vitals), date structurate, accesibilitate, fișe de magazin, conținut video, social media, HTML, CSS, JavaScript, TypeScript, SQL, Git, Excel, Word.
 - Limbi: română, engleză (fluent).
 - Studii: licență în Muzică (contrabas), Universitatea din Craiova.
 - Weekend: show-uri live de darbuka (@matei.percussion).
